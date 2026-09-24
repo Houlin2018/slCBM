@@ -129,7 +129,7 @@ Abaqus/compiler compatibility depends on the operating system and Abaqus release
 
 ### COMSOL models
 
-For Fig. 4, use COMSOL Multiphysics to open the supplied `.mph` files. The original COMSOL release used to create these files is not recorded in the repository.
+For Fig. 4, use COMSOL Multiphysics to open the supplied `.mph` files.
 
 ## Running an Abaqus case
 
